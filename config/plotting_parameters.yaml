@@ -1,0 +1,18 @@
+context: 'notebook'
+style: 'whitegrid'
+palette: 'tab10'
+rc:
+  lines.linewidth: 1.3
+  axes.facecolor: '#f6f5f5'
+  axes.titlelocation: 'left'
+  axes.titlesize: 20.0
+  axes.titleweight: 'bold'
+  axes.grid.axis: 'y'
+  axes.spines.right: False
+  axes.spines.top: False
+  axes.prop_cycle: cycler('color', ['black', '#003DFD', '#b512b8', '#11a9ba', '#0d780f', '#f77f07', '#ba0f0f'])
+  grid.linestyle: ':'
+  figure.titlesize: 20.0
+  figure.titleweight: 'bold'
+  figure.facecolor: '#f6f5f5'
+
